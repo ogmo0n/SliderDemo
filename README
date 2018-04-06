@@ -1,0 +1,8 @@
+Slider Frame: a Java Swing/Java AWT exercise.
+
+In this exercise, I was tasked with creating a JFrame that contained a JSlider to
+adjust the size of a circle. Additionally, I added radio buttons to change the shape
+from a circle to a square, change the background color, and/or change the foreground
+color to either red, blue, or green.
+
+I am proud of the work I put into this particular assignment as it was quite challenging.
